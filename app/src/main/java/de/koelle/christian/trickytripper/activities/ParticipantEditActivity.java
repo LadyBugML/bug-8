@@ -104,6 +104,9 @@ public class ParticipantEditActivity extends AppCompatActivity implements Permis
         }
     }
 
+    private void newMethod() {
+        System.out.println("woah modified file");
+    }
 
     private void doRequestPhonebookPermissions() {
         // The OS popup will show up, unless 'don't ask again' had been choosen.
