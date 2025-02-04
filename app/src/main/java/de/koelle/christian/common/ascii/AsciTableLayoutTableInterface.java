@@ -31,6 +31,7 @@ public interface AsciTableLayoutTableInterface
      */
     public String[] asciTableColumnNames();
 
+    public int woah;
     /**
      * content of cell for the given row number and column number.
      * 
