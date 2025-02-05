@@ -13,6 +13,10 @@ public class OptionConstraints {
         return this;
     }
 
+    private void newMethod() {
+        System.out.println("NEW METHOD WOOO");
+    }
+
     public OptionConstraints activity(Activity activity) {
         this.activity = activity;
         return this;
