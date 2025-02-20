@@ -15,7 +15,6 @@ public class OptionConstraints {
 
     private void newMethod() {
         System.out.println("NEW METHOD WOOO");
-        System.out.println("ANOTHER ONE");
     }
 
     public OptionConstraints activity(Activity activity) {
